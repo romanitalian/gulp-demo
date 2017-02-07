@@ -1,0 +1,11 @@
+{
+  "name": "gulp-demo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-sourcemaps": "^2.4.1"
+  }
+}
